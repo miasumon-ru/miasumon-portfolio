@@ -9,6 +9,8 @@ const Navbar = () => {
 
     <li className="roboto"> <NavLink to='/about' className={({ isActive }) => isActive ? 'text-white border border-white' : 'text-white'} > About </NavLink> </li>
 
+    <li className="roboto"> <NavLink to='/skills' className={({ isActive }) => isActive ? 'text-white border border-white' : 'text-white'} > Skills </NavLink> </li>
+
     {/* <li className="roboto"> <NavLink to='/login' className={({ isActive }) => isActive ? ' text-[#23BE0A] border border-[#23BE0A]' : ''} > Login </NavLink> </li> */}
 
     {/* <li> <NavLink to='/newRelease' className={({ isActive }) => isActive ? ' text-[#23BE0A] border border-[#23BE0A]' : ''} > New Release </NavLink> </li>

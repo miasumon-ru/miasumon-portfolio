@@ -5,9 +5,8 @@ import githubIcon from '../../assets/github_icon.png'
 import linkedInIcon from '../../assets/linkedIn_icon.png'
 import downloadIcon from '../../assets/download_icon.png'
 import Navbar from './Navbar';
+
 // import ParticlesBg from "../../components/ParticlesBg";
-
-
 
 const Home = () => {
     return (
@@ -38,6 +37,7 @@ const Home = () => {
 
 
             </div>
+
 
             
 
