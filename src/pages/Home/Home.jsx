@@ -11,10 +11,9 @@ import Navbar from './Navbar';
 
 const Home = () => {
     return (
-        <div >
+        <div>
             <Navbar></Navbar>
                 
-            
             <div className="flex flex-col roboto items-center justify-center min-h-screen ">
             
 
