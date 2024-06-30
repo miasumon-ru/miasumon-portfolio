@@ -25,7 +25,7 @@ const Home = () => {
                     <p> <a href="https://www.linkedin.com/in/miasumon/"> <img className="w-8 h-8 " src={linkedInIcon} alt="" /> </a> </p>
                 </div>
 
-                <a className="hover:bg-green-600 text-2xl btn bg-green-500  text-white my-4 " href="https://drive.google.com/file/d/1xZ_dUVrF078wvmY_Hl4TyRucyNdiMOr-/view">
+                <a className="hover:bg-green-600 text-2xl btn bg-green-500  text-white my-4 " href="https://drive.google.com/file/d/1KwXDC0E6vs2c5jNBhYQeDQ0YFooQsLp-/view?usp=sharing">
                     <button className="flex flex-row gap-2 justify-center items-center">
 
                         <img className="" src={downloadIcon} alt="" />
