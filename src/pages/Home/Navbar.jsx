@@ -13,6 +13,8 @@ const Navbar = () => {
 
     <li className="roboto"> <NavLink to='/projects' className={({ isActive }) => isActive ? 'text-white border border-white' : 'text-white'} > Projects </NavLink> </li>
 
+    <li className="roboto"> <NavLink to='/contact' className={({ isActive }) => isActive ? 'text-white border border-white' : 'text-white'} > Contact </NavLink> </li>
+
     {/* <li className="roboto"> <NavLink to='/login' className={({ isActive }) => isActive ? ' text-[#23BE0A] border border-[#23BE0A]' : ''} > Login </NavLink> </li> */}
 
     {/* <li> <NavLink to='/newRelease' className={({ isActive }) => isActive ? ' text-[#23BE0A] border border-[#23BE0A]' : ''} > New Release </NavLink> </li>

@@ -1,3 +1,4 @@
+
 import Title from "../../components/Title";
 import Navbar from "../Home/Navbar";
 
@@ -5,12 +6,13 @@ import { FaCheckCircle } from "react-icons/fa";
 
 const Projects = () => {
     return (
-        <div className="min-h-screen p-5">
+        <div className="min-h-screen">
             <Navbar></Navbar>
 
+       
             <Title title={'Projects'}></Title>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 roboto">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 roboto max-w-7xl mx-auto p-5">
                 <div className="card card-compact bg-[#090c56] text-white  shadow-xl">
                     <figure>
                        
