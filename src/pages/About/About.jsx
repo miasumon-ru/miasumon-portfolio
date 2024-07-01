@@ -22,7 +22,7 @@ const About = () => {
                     <div className="mt-6 space-y-2 text-center">
                         <p> Phone : +8801796759576 </p>
                         <p> Email : miasumon.ru@gmail.com </p>
-                        <p> Location : Gaibanha, Bangladesh </p>
+                        <p> Location : Gaibandha, Bangladesh </p>
                     </div>
                 </div>
 
