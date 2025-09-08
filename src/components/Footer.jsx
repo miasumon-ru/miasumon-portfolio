@@ -35,7 +35,7 @@ const Footer = () => {
                     
                     <p> <a href="https://github.com/miasumon-ru"> <img className="w-8 h-8 bg-white rounded-full" src={githubIcon} alt="" /> </a> </p>
 
-                     <p> <a href="https://www.facebook.com/searching.rupa.3535"> <img className="w-8 h-8" src={facebookIcon} alt="" /> </a> </p>
+                     <p> <a href="https://www.facebook.com/miasumon.ru"> <img className="w-8 h-8" src={facebookIcon} alt="" /> </a> </p>
 
                     </div>
 
